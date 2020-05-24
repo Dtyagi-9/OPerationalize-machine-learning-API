@@ -1,1 +1,1 @@
-# OPerationalize-machine-learning-API
+# Operationalize-machine-learning-API
